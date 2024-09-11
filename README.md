@@ -1,2 +1,2 @@
 # onu_ml_course
-University Machine Learning course
+University Introductory Machine Learning course 
